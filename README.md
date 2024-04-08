@@ -1,4 +1,7 @@
 # DISTANCE-BETWEEN-TWO-POINTS
+NAME : RAMYA.P
+REG NO : 212223240137
+DEPT : AIML
 
 ## AIM:
 To write a python program to find the distance two 2 points
